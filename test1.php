@@ -9,4 +9,6 @@ echo 'code 4';
 echo "code 5";
 
 echo "code 6";
+
+echo "code 7";
 ?>
