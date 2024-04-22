@@ -7,4 +7,6 @@ echo 'code 2 with just reset';
 echo 'code 4';
 
 echo "code 5";
+
+echo "code 6";
 ?>
